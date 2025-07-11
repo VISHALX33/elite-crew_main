@@ -1,5 +1,5 @@
 // controllers/serviceController.js
-import Service from '../models/Service.js';
+import Service from '../models/service.js';
 
 export const createService = async (req, res) => {
   try {

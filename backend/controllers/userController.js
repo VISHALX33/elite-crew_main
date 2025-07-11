@@ -1,9 +1,9 @@
-import User from '../models/User.js';
-import Booking from '../models/ServiceOrder.js';
+import User from '../models/user.js';
+import Booking from '../models/serviceOrder.js';
 import Order from '../models/Order.js';
 import Review from '../models/review.js';
 import Blog from '../models/blog.js';
-import Wishlist from '../models/Wishlist.js';
+import Wishlist from '../models/wishlist.js';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 

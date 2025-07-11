@@ -1,8 +1,8 @@
 import Order from '../models/Order.js';
 import Product from '../models/product.js';
-import User from '../models/User.js';
-import ServiceOrder from '../models/ServiceOrder.js';
-import Service from '../models/Service.js';
+import User from '../models/user.js';
+import ServiceOrder from '../models/serviceOrder.js';
+import Service from '../models/service.js';
 
 // 📦 Place a product order
 export const createOrder = async (req, res) => {

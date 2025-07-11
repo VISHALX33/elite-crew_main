@@ -1,11 +1,11 @@
 import crypto from 'crypto';
 import axios from 'axios';
 import Payment from '../models/Payment.js';
-import User from '../models/User.js';
+import User from '../models/user.js';
 import Product from '../models/product.js';
-import Service from '../models/Service.js';
+import Service from '../models/service.js';
 import Order from '../models/Order.js';
-import ServiceOrder from '../models/ServiceOrder.js';
+import ServiceOrder from '../models/serviceOrder.js';
 
 // PhonePe Configuration
 const PHONEPE_CONFIG = {
