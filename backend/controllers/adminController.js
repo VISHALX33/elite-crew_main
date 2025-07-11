@@ -1,5 +1,5 @@
 // controllers/adminController.js
-import User from '../models/user.js';
+import User from '../models/User.js';
 import Product from '../models/product.js';
 import Service from '../models/service.js';
 import Blog from '../models/blog.js';

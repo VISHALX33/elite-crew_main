@@ -1,7 +1,7 @@
 import Order from '../models/Order.js';
 import Service from '../models/service.js';
 import Product from '../models/product.js';
-import User from '../models/user.js';
+import User from '../models/User.js';
 import ActivityLog from '../models/activitylog.js';
 export const getUserDashboard = async (req, res) => {
   try {

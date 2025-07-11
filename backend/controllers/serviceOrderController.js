@@ -1,7 +1,7 @@
 // controllers/serviceOrderController.js
 import ServiceOrder from '../models/serviceOrder.js';
 import Service from '../models/service.js';
-import User from '../models/user.js';
+import User from '../models/User.js';
 
 // 👉 Create a new service order (free or paid)
 export const createServiceOrder = async (req, res) => {

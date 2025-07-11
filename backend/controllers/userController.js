@@ -1,4 +1,4 @@
-import User from '../models/user.js';
+import User from '../models/User.js';
 import Booking from '../models/serviceOrder.js';
 import Order from '../models/Order.js';
 import Review from '../models/review.js';
