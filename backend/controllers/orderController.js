@@ -1,5 +1,5 @@
 import Order from '../models/Order.js';
-import Product from '../models/Product.js';
+import Product from '../models/product.js';
 import User from '../models/User.js';
 import ServiceOrder from '../models/ServiceOrder.js';
 import Service from '../models/Service.js';
