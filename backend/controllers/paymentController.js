@@ -5,7 +5,7 @@ import User from '../models/User.js';
 import Product from '../models/product.js';
 import Service from '../models/service.js';
 import Order from '../models/Order.js';
-import ServiceOrder from '../models/serviceOrder.js';
+import ServiceOrder from '../models/ServiceOrder.js';
 
 // PhonePe Configuration
 const PHONEPE_CONFIG = {

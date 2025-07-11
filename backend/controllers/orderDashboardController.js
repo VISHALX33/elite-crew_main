@@ -1,6 +1,6 @@
 // controllers/orderDashboardController.js
 import Order from '../models/Order.js';
-import ServiceOrder from '../models/serviceOrder.js';
+import ServiceOrder from '../models/ServiceOrder.js';
 
 export const getAllMyOrders = async (req, res) => {
   try {

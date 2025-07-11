@@ -1,7 +1,7 @@
 import Order from '../models/Order.js';
 import Product from '../models/product.js';
 import User from '../models/User.js';
-import ServiceOrder from '../models/serviceOrder.js';
+import ServiceOrder from '../models/ServiceOrder.js';
 import Service from '../models/service.js';
 
 // 📦 Place a product order

@@ -1,5 +1,5 @@
 import User from '../models/User.js';
-import Booking from '../models/serviceOrder.js';
+import Booking from '../models/ServiceOrder.js';
 import Order from '../models/Order.js';
 import Review from '../models/review.js';
 import Blog from '../models/blog.js';
