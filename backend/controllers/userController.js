@@ -3,7 +3,7 @@ import Booking from '../models/ServiceOrder.js';
 import Order from '../models/Order.js';
 import Review from '../models/review.js';
 import Blog from '../models/blog.js';
-import Wishlist from '../models/wishlist.js';
+import Wishlist from '../models/Wishlist.js';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 
